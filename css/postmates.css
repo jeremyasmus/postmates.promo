@@ -70,6 +70,30 @@ OFF-WHITE #F3F3F5
 	margin: 10px 0;
 	font-size: 14px;
 }
+.teal-button {
+	color: #fff;
+	background-color: #00CC99;
+	display: inline-block;
+	font-weight: 400;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	cursor: pointer;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	border: .08333rem solid transparent;
+	padding: .75rem;
+	font-size: 1.1rem;
+	line-height: 1.5;
+	border-radius: .5rem;
+}
+.teal-button:hover {
+	color: #fff;
+	background-color: rgba(255, 0, 191, 0.7);
+	text-decoration: none;
+}
 .pink-button {
 	color: #fff;
 	background-color: #ff00bf;
