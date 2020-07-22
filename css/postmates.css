@@ -91,7 +91,7 @@ OFF-WHITE #F3F3F5
 }
 .teal-button:hover {
 	color: #fff;
-	background-color: rgba(255, 0, 191, 0.7);
+	background-color: rgba(0, 204, 153, 0.7);
 	text-decoration: none;
 }
 .pink-button {
