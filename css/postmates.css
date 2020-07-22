@@ -44,7 +44,7 @@ OFF-WHITE #F3F3F5
 }
 
 @media (max-width: 480px) {
-.pink-button, .promo-button, .purple-button {
+.teal-button, .pink-button, .promo-button, .purple-button {
 	width: 100%;
 }
 #ride-types.section, #how-to-get.section, #promo-table.section {
