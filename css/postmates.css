@@ -5,6 +5,7 @@ CHARCOAL #333347
 OFF-WHITE #F3F3F5
 YELLOW #FFDF18
 TEAL #00CC99
+DARK GREEN #1D5A5C
 */
 
 #promo-table {
@@ -142,6 +143,30 @@ TEAL #00CC99
 .purple-button:hover {
 	color: #fff;
 	background-color: rgba(53, 35, 132, 0.7);
+	text-decoration: none;
+}
+.dark-green-button {
+	color: #fff;
+	background-color: #1D5A5C;
+	display: inline-block;
+	font-weight: 400;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	cursor: pointer;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	border: .08333rem solid transparent;
+	padding: .75rem;
+	font-size: 1.1rem;
+	line-height: 1.5;
+	border-radius: .5rem;
+}
+.dark-green-button:hover {
+	color: #fff;
+	background-color: rgba(29, 90, 92, 0.7);
 	text-decoration: none;
 }
 .promo-button {
